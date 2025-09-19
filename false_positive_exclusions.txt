@@ -1,7 +1,5 @@
 APClips
-Coders Rank
-Eintracht Frankfurt Forum
-Freelance.habr
+CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
@@ -9,20 +7,19 @@ Heavy-R
 LessWrong
 LushStories
 Mydramalist
-Newgrounds
 PepperIT
 PocketStars
 Reddit
 Roblox
 RocketTube
+Slack
 SlideShare
 Splice
 Spotify
 Topcoder
-Venmo
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
-xHamster
