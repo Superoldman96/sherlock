@@ -1,10 +1,9 @@
 APClips
-BoardGameGeek
-GNOME VCS
+Coders Rank
+DeviantArt
 Giphy
 HackerEarth
 Heavy-R
-LushStories
 PepperIT
 PocketStars
 Reddit
@@ -14,7 +13,6 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-eintracht
 kaskus
-opennet
 svidbook
+xHamster
