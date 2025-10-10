@@ -1,6 +1,6 @@
 APClips
-Coders Rank
 DeviantArt
+Freelancer
 GNOME VCS
 Giphy
 HackerEarth
@@ -18,4 +18,3 @@ YandexMusic
 kaskus
 opennet
 svidbook
-xHamster
