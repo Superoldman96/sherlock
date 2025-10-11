@@ -1,6 +1,5 @@
 APClips
-DeviantArt
-Freelancer
+CGTrader
 GNOME VCS
 Giphy
 HackerEarth
@@ -15,6 +14,5 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-kaskus
 opennet
 svidbook
