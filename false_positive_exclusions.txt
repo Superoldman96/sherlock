@@ -1,5 +1,6 @@
 APClips
-CGTrader
+Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -9,6 +10,7 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
+SpeakerDeck
 Splice
 Spotify
 Topcoder
@@ -16,3 +18,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
