@@ -1,10 +1,9 @@
 APClips
-Academia.edu
+Blogger
+Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
-HackerRank
-Heavy-R
-LessWrong
 LushStories
 PocketStars
 Reddit
@@ -15,5 +14,4 @@ Topcoder
 Weblate
 YandexMusic
 opennet
-programming.dev
 svidbook
