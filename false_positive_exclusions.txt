@@ -1,6 +1,6 @@
 APClips
 Coders Rank
-DeviantArt
+Freelancer
 GNOME VCS
 Giphy
 LushStories
@@ -11,5 +11,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
+nnRU
 opennet
 svidbook
