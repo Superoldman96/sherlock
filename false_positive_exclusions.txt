@@ -1,9 +1,7 @@
 APClips
-Freelancer
+Coders Rank
 GNOME VCS
 Giphy
-LiveJournal
-LushStories
 PocketStars
 Reddit
 RocketTube
