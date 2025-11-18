@@ -1,19 +1,20 @@
 APClips
+Academia.edu
 Archive.org
-Coders Rank
+ArtStation
 DeviantArt
 GNOME VCS
 Giphy
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
+Snapchat
 Splice
 Spotify
-Trello
 Trovo
 Weblate
 YandexMusic
-furaffinity
-opennet
+phpRU
 svidbook
