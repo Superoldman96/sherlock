@@ -1,20 +1,17 @@
 APClips
-Academia.edu
 Archive.org
-ArtStation
 DeviantArt
 GNOME VCS
 Giphy
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
-Snapchat
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 phpRU
 svidbook
