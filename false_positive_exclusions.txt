@@ -6,9 +6,11 @@ GNOME VCS
 Giphy
 LiveJournal
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Trovo
