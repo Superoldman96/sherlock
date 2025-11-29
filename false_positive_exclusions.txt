@@ -5,6 +5,8 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+Itch.io
+LushStories
 PocketStars
 Reddit
 RocketTube
@@ -15,4 +17,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
