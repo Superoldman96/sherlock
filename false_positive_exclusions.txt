@@ -3,13 +3,17 @@ Archive.org
 GNOME VCS
 GeeksforGeeks
 Giphy
+Hubski
 LushStories
 PocketStars
 Reddit
 RocketTube
+Scribd
+Slack
+SlideShare
+SpeakerDeck
 Splice
 Spotify
 Weblate
 YandexMusic
-opennet
 svidbook
