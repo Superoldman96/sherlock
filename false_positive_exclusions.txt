@@ -8,8 +8,9 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-OurDJTalk
+Minecraft
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Scribd
@@ -19,6 +20,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-opennet
 phpRU
 svidbook
