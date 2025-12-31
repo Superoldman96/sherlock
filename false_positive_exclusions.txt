@@ -6,7 +6,6 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
 PocketStars
 Reddit
 RocketTube
@@ -16,6 +15,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
-opennet
+mercadolivre
 phpRU
 svidbook
