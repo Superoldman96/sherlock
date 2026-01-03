@@ -6,7 +6,9 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -15,7 +17,9 @@ SlideShare
 Splice
 Spotify
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
