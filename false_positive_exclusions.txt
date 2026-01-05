@@ -1,7 +1,8 @@
 APClips
 Archive.org
+Chess
 Code Snippet Wiki
-DeviantArt
+Dribbble
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -9,13 +10,13 @@ Giphy
 Hubski
 LushStories
 PocketStars
+Realmeye
 Reddit
 RocketTube
 Scribd
 SlideShare
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 mercadolivre
