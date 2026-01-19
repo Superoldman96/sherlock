@@ -5,10 +5,8 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -19,6 +17,7 @@ Smule
 Splice
 Spotify
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
 opennet
