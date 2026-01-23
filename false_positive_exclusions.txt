@@ -1,8 +1,6 @@
 APClips
 Archive.org
-Chatujme.cz
 Code Snippet Wiki
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -18,7 +16,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 mercadolivre
