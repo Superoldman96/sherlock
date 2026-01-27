@@ -1,6 +1,6 @@
 APClips
 Archive.org
-Blogger
+Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -8,9 +8,10 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Lobsters
 LushStories
+Minecraft
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -21,7 +22,8 @@ Splice
 Spotify
 Trovo
 Weblate
-YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+xHamster
