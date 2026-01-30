@@ -13,6 +13,7 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -25,4 +26,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
