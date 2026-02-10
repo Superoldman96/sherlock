@@ -1,16 +1,15 @@
 APClips
 Archive.org
-Carbonmade
 Code Snippet Wiki
 DeviantArt
-Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
+LiveJournal
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -18,9 +17,9 @@ RocketTube
 Scribd
 SlideShare
 Smule
-Snapchat
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -28,4 +27,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
