@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Audiojungle
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -7,6 +8,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Realmeye
@@ -16,12 +18,16 @@ Scribd
 Shelf
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 TryHackMe
+Tuna
 Weblate
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
+threads
+xHamster
