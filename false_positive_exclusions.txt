@@ -2,13 +2,16 @@ APClips
 Archive.org
 Codolio
 DeviantArt
+Dribbble
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
+Minecraft
 Patched
 PocketStars
 Rarible
@@ -21,10 +24,10 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Weblate
-YandexMusic
 mercadolivre
 opennet
 phpRU
