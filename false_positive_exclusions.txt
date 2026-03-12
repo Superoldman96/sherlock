@@ -1,15 +1,15 @@
 APClips
 Archive.org
 Codolio
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
-Minecraft
-Motherless
 Patched
 PocketStars
 Rarible
@@ -20,13 +20,14 @@ Scribd
 Shelf
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
-Strava
+Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
