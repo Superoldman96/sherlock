@@ -7,7 +7,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Patched
@@ -20,9 +19,9 @@ Scribd
 Shelf
 SlideShare
 Smule
-Snapchat
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Weblate
@@ -30,4 +29,3 @@ YandexMusic
 mercadolivre
 phpRU
 svidbook
-xHamster
