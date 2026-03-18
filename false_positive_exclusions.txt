@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Audiojungle
 Codolio
 DeviantArt
 GeeksforGeeks
@@ -23,7 +24,6 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
-dailykos
 mercadolivre
 opennet
 phpRU
