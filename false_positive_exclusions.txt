@@ -1,24 +1,21 @@
 APClips
 Archive.org
 Codolio
-DEV Community
 DeviantArt
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 Itch.io
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
-Rajce.net
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -30,7 +27,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
