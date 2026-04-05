@@ -8,7 +8,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
 LushStories
 Patched
 PocketStars
@@ -25,6 +24,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
