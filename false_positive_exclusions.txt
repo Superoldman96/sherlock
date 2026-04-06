@@ -1,5 +1,6 @@
 7Cups
 APClips
+Archive of Our Own
 Archive.org
 Codolio
 DeviantArt
@@ -8,6 +9,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
 Patched
 PocketStars
@@ -20,11 +22,11 @@ Scribd
 Shelf
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 interpals
