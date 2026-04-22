@@ -7,12 +7,12 @@ Codolio
 Discord.bio
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
 LushStories
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -23,6 +23,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 TryHackMe
 Velomania
 Weblate
@@ -33,4 +34,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
