@@ -2,29 +2,32 @@
 APClips
 Airliners
 Apple Discussions
+Archive.org
 Bandcamp
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
 Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
+Motherless
 Patched
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
+Terraria Forums
 TryHackMe
 Velomania
 Weblate
@@ -36,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
