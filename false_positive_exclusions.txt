@@ -11,9 +11,9 @@ Envato Forum
 Giphy
 Hashnode
 Hubski
-LessWrong
 Motherless
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,3 +36,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
