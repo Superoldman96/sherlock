@@ -9,26 +9,22 @@ Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 Giphy
 Hashnode
 Hubski
 LessWrong
-Motherless
 Patched
 Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Velomania
@@ -42,4 +38,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
