@@ -8,14 +8,11 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Freelancer
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
-Minecraft
 Patched
 Pornhub
 Rarible
@@ -27,7 +24,6 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
