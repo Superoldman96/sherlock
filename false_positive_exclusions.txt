@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BreachSta.rs Forum
 Codolio
 Cults3D
 DeviantArt
@@ -17,7 +18,9 @@ Hubski
 LessWrong
 Odysee
 OurDJTalk
+PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -29,7 +32,6 @@ SlideShare
 Splice
 Spotify
 Star Citizen
-Strava
 Trovo
 TryHackMe
 Velomania
