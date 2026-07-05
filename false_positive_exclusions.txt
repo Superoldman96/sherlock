@@ -15,14 +15,11 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
 Pornhub
-Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -33,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Terraria Forums
 Trovo
 TryHackMe
 Velomania
