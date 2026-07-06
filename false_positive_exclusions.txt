@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -16,10 +15,11 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -43,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
