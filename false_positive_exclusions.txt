@@ -6,8 +6,8 @@ Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
+Contently
 DeviantArt
-Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -18,7 +18,6 @@ LessWrong
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -26,9 +25,11 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
