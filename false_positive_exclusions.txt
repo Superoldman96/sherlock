@@ -6,13 +6,12 @@ Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
-Contently
 DeviantArt
+Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Houzz
 Hubski
 LessWrong
 Odysee
@@ -23,13 +22,13 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 Slack
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
