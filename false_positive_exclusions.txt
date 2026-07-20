@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -14,9 +15,12 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Odysee
+OurDJTalk
+Outgress
 PCGamer
+Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,7 +41,7 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
+xHamster
