@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
@@ -13,8 +12,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -28,6 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -38,7 +38,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
