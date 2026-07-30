@@ -3,13 +3,17 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
+F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
@@ -17,8 +21,11 @@ Hubski
 Instapaper
 LessWrong
 Odysee
+OurDJTalk
 PCGamer
 Patched
+Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -26,12 +33,15 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
