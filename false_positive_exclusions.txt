@@ -1,6 +1,6 @@
 7Cups
+APClips
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -21,6 +21,7 @@ Instapaper
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,7 +33,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
