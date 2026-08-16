@@ -2,8 +2,8 @@
 Airliners
 Apple Developer
 Apple Discussions
-Archive.org
 Bandcamp
+Carbonmade
 Chatujme.cz
 Codolio
 DeviantArt
@@ -17,10 +17,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
+Outgress
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,8 +33,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
