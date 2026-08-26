@@ -1,10 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Championat
 Chatujme.cz
 Codolio
 DeviantArt
@@ -31,15 +31,14 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
@@ -48,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
