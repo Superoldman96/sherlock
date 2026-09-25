@@ -5,15 +5,16 @@ Apple Discussions
 Archive.org
 Bandcamp
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Forum Ophilia
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
@@ -22,7 +23,6 @@ Linktree
 Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -34,10 +34,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
