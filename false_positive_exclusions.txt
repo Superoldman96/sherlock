@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -15,6 +16,7 @@ GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
+HackerRank
 Hashnode
 Houzz
 Hubski
