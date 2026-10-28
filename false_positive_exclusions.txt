@@ -36,11 +36,12 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 interpals
@@ -49,4 +50,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
