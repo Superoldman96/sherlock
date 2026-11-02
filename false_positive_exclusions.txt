@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -15,7 +14,6 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-GitBook
 HackerNews
 Hashnode
 Houzz
@@ -25,7 +23,6 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -36,6 +33,7 @@ SlideShare
 Splice
 Spotify
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
@@ -48,4 +46,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
