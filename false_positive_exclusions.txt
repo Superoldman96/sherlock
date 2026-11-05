@@ -1,4 +1,6 @@
+APClips
 Airliners
+AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
@@ -6,9 +8,7 @@ Bandcamp
 Championat
 Chatujme.cz
 Codolio
-DeviantArt
 Discord.bio
-Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -17,11 +17,13 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LibraryThing
 Linktree
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -30,6 +32,7 @@ RocketTube
 Scribd
 Shelf
 SlideShare
+Smule
 Splice
 Spotify
 Trakt
@@ -47,4 +50,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
