@@ -3,22 +3,23 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-Championat
 Chatujme.cz
 Codolio
-DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+GitHub
 HackerNews
 Hashnode
+Houzz
 Hubski
 Instapaper
+LibraryThing
 Linktree
 ObservableHQ
-OurDJTalk
+Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -26,9 +27,11 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
+Signal
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -43,3 +46,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
